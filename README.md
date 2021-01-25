@@ -1,3 +1,11 @@
+# Project Background
+
+I am learning the fundamentals on how to build a ReactJS shopping cart with Typescript, Material UI, Styled Components and React-Query.
+
+I'm using a free open API (https://fakestoreapi.com/) for dummy data to the items in the shop. React-Query hooks is used for fetching the data from the API. 
+
+Styled Components is used in combination with Material UI to customize the styles.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
